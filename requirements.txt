@@ -2,3 +2,4 @@ filterpy
 jupyter
 notebook
 sympy
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
